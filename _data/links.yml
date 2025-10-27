@@ -4,10 +4,10 @@ sources:
   shortname: Sources
   path:      sources.html
   local:     true
-  RedVal:
-  name:      Red Valley
-  shortname: RedVal
-  path:      RedVal.html
+  Wolf 359:
+  name:      Wolf 359
+  shortname: Wolf
+  path:      Wolf.html
   local:     true
 incomplete:
   name:      List of Incomplete Transcripts

@@ -1,7 +1,7 @@
 <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-  <!-- Orange background -->
-  <rect x="0" y="0" width="100" height="100" fill="orange" />
+  <!-- Custom orange background -->
+  <rect x="0" y="0" width="100" height="100" fill="#E27E39" />
   
-  <!-- Number 359 in black -->
-  <text x="50" y="55" font-size="30" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif">359</text>
+  <!-- Extra blocky number 359 in black, slightly raised -->
+  <text x="50" y="55" font-size="60" fill="black" text-anchor="middle" dominant-baseline="middle" font-family="Impact, Anton, Arial Black, sans-serif">359</text>
 </svg>
